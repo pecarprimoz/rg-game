@@ -10,15 +10,6 @@ IGRA NAJ BI DELALA V FIREFOXU, V 4 od 5 PRIMEROV JE DELALA.
 ne dovolijo prenos assetov, npr error log na chromu (three.min.js:603 XMLHttpRequest cannot load file:///C:/Users/neonpc/Desktop/pecarp-rg_seminarska-2726d9be313e/images/galaxy_starfield.png. 
 													 Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource.   )
 	
-	
-Torej zaradi nekega čudnega razloga browserji sami po sebi nočejo naložiti assetov igre, potrebno je zagnati projekt preko Webstorma, če to ni možnost je funkcionala verzija igre na sledeči domeni:
-
-DOMENA: http://rostohar.si/neon/neons_boat/rg-seminarska-master/
-
-Tukaj je igra delujoča z vsemi asseti. Koda na strežniku je identična kodi v tem projektu.
-
-
-* Shranjevanje RG seminarske in updejtanje le-te.
 
 ### Kje se nahajajo datoteke/kaj so ###
 
